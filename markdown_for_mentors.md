@@ -12,7 +12,6 @@ _Italics_, *italics*
 __Underline__
 
 **Bold and __underline__**
-
 ```
 
 Links and different lines:
