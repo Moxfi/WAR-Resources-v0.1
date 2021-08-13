@@ -33,7 +33,7 @@ Date: 2021_08_13
 
 ![Warrior Opener as of 5.0+](https://i.imgur.com/WB2SEtL.png "Warrior Opener")
 
-If you don't Tomahawk (ie. facepull), move Infuriate forward a GCD.
+If you don't Tomahawk (ie. facepull), move Infuriate forward a GCD. \
 It's preferable to pull with Heavy Swing + Provoke, but in some fights with far aggro range, it is better to Tomahawk in to gain a GCD.
 
 You can leave Nascent Flash out, or use it later to cover fight damage, but it is there for two reasons:
@@ -57,30 +57,27 @@ Crit > Comfy SkS > Det > Ten
 **Skill Speed (SkS) and Comfy SkS**
 
 37 GCDs each 90s
-
 - 1015 for 2.43 GCD
 - 1117 for 2.42 GCD
 
 38 GCDs each 90s
-
 - 1523 for 2.38 GCD
 - 1624 for 2.37 GCD
 - 1726 for 2.36 GCD
 
 **"Comfy"?**
 
-Some fights require extra skill speed to hit that last skill before a mechanic.
-
-One example would be E3s where you can hit Path (80 gauge) right before the first downtime.
-
+Some fights require extra skill speed to hit that last skill before a mechanic. \
+One example would be E3s where you can hit Path (80 gauge) right before the first downtime. \
 Or E11s to finish a combo before the first downtime.
 
 
 **Why these Skillspeeds?** <br />
-Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible.  <br />
-90 / 2.38 = 37.97 <br />
-That makes 38 GCDs between each Inner Release cast. This way, Inner Release comes up right after we finish our 38th GCD and we can re-enter the Fell Cleave spam phase. <br />
-Going above or below from 2.38 GCD changes the timings so that we either wait for Inner Release to be back up or we delay it because we're still in the middle of our GCD. <br />
+Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible. \
+90 / 2.38 = 37.97 \
+That makes 38 GCDs between each Inner Release cast. \
+This way, Inner Release comes up right after we finish our 38th GCD and we can re-enter the Fell Cleave spam phase. \
+Going above or below from 2.38 GCD changes the timings so that we either wait for Inner Release to be back up or we delay it because we're still in the middle of our GCD.
 
 
 
@@ -90,9 +87,9 @@ Going above or below from 2.38 GCD changes the timings so that we either wait fo
 Read [the guide](http://bit.ly/XIV50WAR). <br />
 
 **Inner Release priority**
-- 5 Fell Cleaves <br />
-- 1 Upheaval <br />
-- 1 Onslaught <br />
+- 5 Fell Cleaves \
+- 1 Upheaval \
+- 1 Onslaught  \
 
 ## Beast Gauge
 
