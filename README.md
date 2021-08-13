@@ -77,22 +77,22 @@ To be used for:
 
 ## Macros
 
-**Nascent Flash to your co-tank**
-> /merror off
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <2>
-> /ac "Nascent Flash" <me>
-> /ac "Nascent Flash" <me>
-> /ac "Nascent Flash" <me>
-> /ac "Nascent Flash" <me>
-> /micon "Nascent Flash"
+**Nascent Flash to your co-tank, with a self-cast to avoid losing a use**
+> /merror off.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <2>.
+> /ac "Nascent Flash" <me>.
+> /ac "Nascent Flash" <me>.
+> /ac "Nascent Flash" <me>.
+> /ac "Nascent Flash" <me>.
+> /micon "Nascent Flash".
 
 **Self-casting Holmgang to avoid missing its effects**
 > /merror off
