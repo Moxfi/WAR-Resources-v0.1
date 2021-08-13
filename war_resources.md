@@ -11,7 +11,6 @@ Date: 2021_08_13
 
 ## Deeper knowledge
 [Tank Tools](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/tank_tools.md) \
-[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) \
 [Math Wizard Document(s)](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/math_wizards.md) 
 
 
