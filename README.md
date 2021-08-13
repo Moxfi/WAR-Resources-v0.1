@@ -2,13 +2,18 @@ war_resources
 ======
 Date: 2021_08_13
 
+## Pre-requisite knowledge
+
+General Tank guides <br />
+How Macros work <br />
+[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) <br />
 
 
 
 ## The guide
 
 [Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR) <br />
-[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) <br />
+
 
 
 
