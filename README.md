@@ -72,10 +72,33 @@ Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible
 That makes 38 GCDs between each Inner Release cast. This way, Inner Release comes up right after we finish our 38th GCD and we can re-enter the Fell Cleave spam phase. <br />
 Going above or below from 2.38 GCD changes the timings so that we either wait for Inner Release to be back up or we delay it because we're still in the middle of our GCD. <br />
 
+
+
+
+
+## Beast Gauge
+
 **How do I use my Beast Gauge?** <br />
-Your aim is to ALWAYS have at least 20g for Upheaval, or +70g for Fell Cleave + Upheaval.  <br />
+Your aim is to always have at least 20g for Upheaval, or +70g for Fell Cleave + Upheaval. <br />
 That gauge isn't escaping you unless you can't use it due to FIGHT ENDING. <br />
 Try to hit those Fell Cleaves inside party buffs and before the fight ends. <br />
+
+**How do I use Upheaval?** <br />
+Use Inner Release's recast timer as a visual guide on whether to use Upheaval or not.
+
+Use Upheaval when Inner Release's recast timer is at: <br />
+- 88 seconds <br />
+- 58 seconds <br />
+- 28 seconds <br />
+
+Because our preferred skill speeds drift Upheaval, aim for: <br />
+- 88~85 <br />
+- 58~53 <br />
+- 28~22 <br />
+
+If your Upheaval slips out of these timers, skip it once. <br />
+Be mindful of your gauge, as you would have 20g more than usual in this situation. <br />
+
 
 **What about Onslaught?** <br />
 To be used for: <br />
