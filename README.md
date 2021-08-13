@@ -44,7 +44,7 @@ You can leave Nascent Flash out, or use it later to cover fight damage, but it i
 
 
 
-## Stats and Melds \
+## Stats and Melds
 [Abbreviations]() \
 [Stats and stat tiers](http://theoryjerks.akhmorning.com/)
 
