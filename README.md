@@ -44,18 +44,15 @@ You can leave Nascent Flash out, or use it later to cover fight damage, but it i
 
 
 
-## Stats and Melds
-
-[Abbreviations]() <br />
+## Stats and Melds \
+[Abbreviations]() \
 [Stats and stat tiers](http://theoryjerks.akhmorning.com/)
 
-**What do I meld?**
-
+**What do I meld?** \
 Crit > Comfy SkS > Det > Ten
 
 
-**Skill Speed (SkS) and Comfy SkS**
-
+**Skill Speed (SkS) and Comfy SkS** \
 37 GCDs each 90s
 - 1015 for 2.43 GCD
 - 1117 for 2.42 GCD
@@ -65,14 +62,13 @@ Crit > Comfy SkS > Det > Ten
 - 1624 for 2.37 GCD
 - 1726 for 2.36 GCD
 
-**"Comfy"?**
-
+**"Comfy"?** \
 Some fights require extra skill speed to hit that last skill before a mechanic. \
 One example would be E3s where you can hit Path (80 gauge) right before the first downtime. \
 Or E11s to finish a combo before the first downtime.
 
 
-**Why these Skillspeeds?** <br />
+**Why these Skillspeeds?** \
 Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible. \
 90 / 2.38 = 37.97 \
 That makes 38 GCDs between each Inner Release cast. \
@@ -84,42 +80,42 @@ Going above or below from 2.38 GCD changes the timings so that we either wait fo
 
 
 ## Rotation
-Read [the guide](http://bit.ly/XIV50WAR). <br />
+Read [the guide](http://bit.ly/XIV50WAR).
 
-**Inner Release priority**
+**Inner Release priority** \
 - 5 Fell Cleaves \
 - 1 Upheaval \
 - 1 Onslaught  \
 
 ## Beast Gauge
 
-**How do I use my Beast Gauge?** <br />
-Your aim is to always have at least 20g for Upheaval, or +70g for Fell Cleave + Upheaval. <br />
-That gauge isn't escaping you unless you can't use it due to FIGHT ENDING. <br />
-Try to hit those Fell Cleaves inside party buffs and before the fight ends. <br />
+**How do I use my Beast Gauge?** \
+Your aim is to always have at least 20g for Upheaval, or +70g for Fell Cleave + Upheaval. \
+That gauge isn't escaping you unless you can't use it due to FIGHT ENDING. \
+Try to hit those Fell Cleaves inside party buffs and before the fight ends. \
 
-**How do I use Upheaval?** <br />
+**How do I use Upheaval?** \
 Use Inner Release's recast timer as a visual guide on whether to use Upheaval or not.
 
-Use Upheaval when Inner Release's recast timer is at: <br />
-- 88 seconds <br />
-- 58 seconds <br />
-- 28 seconds <br />
+Use Upheaval when Inner Release's recast timer is at: \
+- 88 seconds \
+- 58 seconds \
+- 28 seconds 
 
-Because our preferred skill speeds cause Upheaval to drift, aim for: <br />
-- 88~85 <br />
-- 58~53 <br />
-- 28~22 <br />
+Because our preferred skill speeds cause Upheaval to drift, aim for: \
+- 88~85 \
+- 58~53 \
+- 28~22 
 
-If your Upheaval slips out of these timers, skip it once. <br />
-Be mindful of your gauge, as you would have 20g more than usual in this situation. <br />
+If your Upheaval slips out of these timers, skip it once. \
+Be mindful of your gauge, as you would have 20g more than usual in this situation. 
 
 
-**What about Onslaught?** <br />
-To be used for: <br />
-- Inside Inner Release <br />
-- Gap closer to avoid GCD downtime <br />
-- Gauge/Rotation manipulation <br />
+**What about Onslaught?** \
+To be used for: \
+- Inside Inner Release \
+- Gap closer to avoid GCD downtime \
+- Gauge/Rotation manipulation 
 
 
 
@@ -129,20 +125,20 @@ To be used for: <br />
 
 **Nascent Flash to your co-tank, with a self-cast to avoid losing a use**
 > /merror off
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" \<me> <br />
-> /ac "Nascent Flash" \<me> <br />
-> /ac "Nascent Flash" \<me> <br />
-> /ac "Nascent Flash" \<me> <br />
-> /micon "Nascent Flash" <br />
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" <2> \
+> /ac "Nascent Flash" \<me> \
+> /ac "Nascent Flash" \<me> \
+> /ac "Nascent Flash" \<me> \
+> /ac "Nascent Flash" \<me> \
+> /micon "Nascent Flash"
 
 **Self-casting Holmgang to avoid missing its effects**
 > /merror off
