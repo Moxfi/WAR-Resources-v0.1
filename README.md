@@ -45,7 +45,7 @@ You can leave Nascent Flash out, or use it later to cover fight damage, but it i
 
 ## Stats and Melds
 
-Abbreviations <br />
+[Abbreviations]() <br />
 [Stats and stat tiers](http://theoryjerks.akhmorning.com/)
 
 **What do I meld?** <br />
@@ -78,7 +78,7 @@ Going above or below from 2.38 GCD changes the timings so that we either wait fo
 
 
 ## Rotation
-Read the guide. <br />
+Read [the guide](http://bit.ly/XIV50WAR). <br />
 
 **Inner Release priority**
 - 5 Fell Cleaves <br />
