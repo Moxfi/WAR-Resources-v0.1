@@ -162,11 +162,11 @@ To be used for:
 
 ## Best in Slot, BIS
 
-**Ultimate Raids**
+**Ultimate Raids** \
 [Gathered in a single doc for now](http://bit.ly/WARultimateBIS)
 
-**Current Raid tier**
-Simulated on Xaela, in a Party, on a Dummy using [Tank DPS Calculator](https://bit.ly/TankDPSCalc520)
+**Current Raid tier** \
+Simulated on Xaela, in a Party, on a Dummy using [Tank DPS Calculator](https://bit.ly/TankDPSCalc520) \
 > Relic Sets \
 > Non-Relic Sets
 
