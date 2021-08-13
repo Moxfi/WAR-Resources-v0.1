@@ -21,7 +21,6 @@ How Macros work <br />
 
 ## The Opener
 
-The short version:
 ![Warrior Opener as of 5.0+](https://i.imgur.com/WB2SEtL.png "Warrior Opener")
 
 If you don't Tomahawk (ie. facepull), move Infuriate forward a GCD.
