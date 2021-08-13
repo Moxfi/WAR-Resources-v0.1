@@ -82,10 +82,10 @@ Going above or below from 2.38 GCD changes the timings so that we either wait fo
 ## Rotation
 Read [the guide](http://bit.ly/XIV50WAR).
 
-**Inner Release priority** \
-- 5 Fell Cleaves \
-- 1 Upheaval \
-- 1 Onslaught  \
+**Inner Release priority** 
+- 5 Fell Cleaves 
+- 1 Upheaval 
+- 1 Onslaught  
 
 ## Beast Gauge
 
@@ -97,14 +97,14 @@ Try to hit those Fell Cleaves inside party buffs and before the fight ends. \
 **How do I use Upheaval?** \
 Use Inner Release's recast timer as a visual guide on whether to use Upheaval or not.
 
-Use Upheaval when Inner Release's recast timer is at: \
-- 88 seconds \
-- 58 seconds \
+Use Upheaval when Inner Release's recast timer is at: 
+- 88 seconds 
+- 58 seconds 
 - 28 seconds 
 
-Because our preferred skill speeds cause Upheaval to drift, aim for: \
-- 88~85 \
-- 58~53 \
+Because our preferred skill speeds cause Upheaval to drift, aim for: 
+- 88~85 
+- 58~53 
 - 28~22 
 
 If your Upheaval slips out of these timers, skip it once. \
@@ -113,8 +113,8 @@ Be mindful of your gauge, as you would have 20g more than usual in this situatio
 
 **What about Onslaught?** \
 To be used for: \
-- Inside Inner Release \
-- Gap closer to avoid GCD downtime \
+- Inside Inner Release 
+- Gap closer to avoid GCD downtime 
 - Gauge/Rotation manipulation 
 
 
