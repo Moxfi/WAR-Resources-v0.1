@@ -77,6 +77,14 @@ Going above or below from 2.38 GCD changes the timings so that we either wait fo
 
 
 
+## Rotation
+Read the guide. <br />
+
+**Inner Release priority**
+- 5 Fell Cleaves <br />
+- 1 Upheaval <br />
+- 1 Onslaught <br />
+
 ## Beast Gauge
 
 **How do I use my Beast Gauge?** <br />
