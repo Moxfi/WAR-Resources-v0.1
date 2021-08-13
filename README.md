@@ -142,19 +142,19 @@ To be used for:
 
 **Self-casting Holmgang to avoid missing its effects**
 > /merror off
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
-> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
+> /ac "Holmgang" \<me> \
 > /micon "Holmgang"
 
 
@@ -167,16 +167,16 @@ To be used for:
 
 **Current Raid tier**
 Simulated on Xaela, in a Party, on a Dummy using [Tank DPS Calculator](https://bit.ly/TankDPSCalc520)
-> Relic Sets
+> Relic Sets \
 > Non-Relic Sets
 
-**Relic Sets**
-[2.37 GCD - 13397.2 dps - Chicken Fettuccine](https://etro.gg/gearset/f344710e-37b1-4c42-a422-76188ab680cf)
-[2.38 GCD - 13382.6 dps - Chicken Fettuccine](https://etro.gg/gearset/717a06ac-8373-4490-9834-c5d1c321b0a7)
+**Relic Sets** \
+[2.37 GCD - 13397.2 dps - Chicken Fettuccine](https://etro.gg/gearset/f344710e-37b1-4c42-a422-76188ab680cf) \
+[2.38 GCD - 13382.6 dps - Chicken Fettuccine](https://etro.gg/gearset/717a06ac-8373-4490-9834-c5d1c321b0a7) \
 [2.43 GCD - 13410.0 dps - Smoked Chicken](https://etro.gg/gearset/6b4a9646-3d72-4c85-ae3f-c77e28875389)
 
-**Non-Relic Sets**
-[2.37 GCD - 13312.1 dps - Chicken Fettuccine](https://etro.gg/gearset/465c5777-b594-497d-8eac-b45fe2646009)
-[2.38 GCD - 13297.0 dps - Smoked Chicken](https://etro.gg/gearset/6e7c6fd5-7618-466c-8284-8c2cc0f611c3)
+**Non-Relic Sets** \
+[2.37 GCD - 13312.1 dps - Chicken Fettuccine](https://etro.gg/gearset/465c5777-b594-497d-8eac-b45fe2646009) \
+[2.38 GCD - 13297.0 dps - Smoked Chicken](https://etro.gg/gearset/6e7c6fd5-7618-466c-8284-8c2cc0f611c3) \
 [2.43 GCD - 13334.1 dps - Smoked Chicken](https://etro.gg/gearset/1f52b3ea-3bab-4a6b-8bfd-8bdcac766d39)
 
