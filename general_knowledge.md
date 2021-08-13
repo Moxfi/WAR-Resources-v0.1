@@ -1,5 +1,6 @@
 ## General Knowledge
 
+[Abbreviations]() \
 [OGCD weaving guide](https://cdn.discordapp.com/attachments/277946900542521345/564874287568257038/GCD_v._2_2.png) \
 [Double Weaving Tips](https://cdn.discordapp.com/attachments/277962264001380354/439930594756132877/unknown.png) \
 [Uptime and you](https://www.youtube.com/watch?v=xungzaoKoC4) \
