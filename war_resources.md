@@ -6,7 +6,7 @@ Date: 2021_08_13
 
 
 [General Knowledge](https://github.com/Moxfi/WAR-Resources-v0.1/edit/main/general_knowledge.md) \
-[General Tank guides](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/tank_guides.md) \
+[General Tank guides](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/tank_guides.md) 
 
 
 ## Deeper knowledge
