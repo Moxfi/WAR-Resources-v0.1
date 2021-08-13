@@ -58,9 +58,9 @@ Crit > Comfy SkS > Det > Ten <br />
 - 1117 for 2.42 GCD <br />
 
 38 GCDs each 90s <br />
--1523 for 2.38 GCD <br />
--1624 for 2.37 GCD <br />
--1726 for 2.36 GCD <br />
+- 1523 for 2.38 GCD <br />
+- 1624 for 2.37 GCD <br />
+- 1726 for 2.36 GCD <br />
 
 **"Comfy"?** <br />
 Some fights require extra skill speed to hit that last skill before a mechanic. <br />
