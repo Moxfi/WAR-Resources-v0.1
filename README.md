@@ -100,7 +100,7 @@ Use Upheaval when Inner Release's recast timer is at: <br />
 - 58 seconds <br />
 - 28 seconds <br />
 
-Because our preferred skill speeds drift Upheaval, aim for: <br />
+Because our preferred skill speeds cause Upheaval to drift, aim for: <br />
 - 88~85 <br />
 - 58~53 <br />
 - 28~22 <br />
