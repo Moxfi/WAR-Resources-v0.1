@@ -10,7 +10,7 @@ How Macros work <br />
 
 
 
-## The guide
+## The Guide
 
 [Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR) <br />
 
