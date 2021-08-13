@@ -2,7 +2,8 @@
 
 [Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) 
 
-Mitigation:
+Mitigation: How does it work?
+
 Using two 20% cooldowns:
 
 Incoming Damage x (1 - (%)) x (1 - (%)) = \
