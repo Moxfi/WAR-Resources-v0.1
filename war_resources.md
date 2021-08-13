@@ -6,7 +6,7 @@ Date: 2021_08_13
 
 
 [Abbreviations]() \
-[GCD, oGCD and weaving]() \
+[GCD, oGCD and weaving](https://cdn.discordapp.com/attachments/277946900542521345/564874287568257038/GCD_v._2_2.png) \
 [General Tank guides](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/tank_guides.md) \
 [How Macros work](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/macros.md) 
 
