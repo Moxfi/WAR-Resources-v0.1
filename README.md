@@ -6,22 +6,28 @@ Date: 2021_08_13
 
 
 [Abbreviations]() 
+
 [GCD, oGCD and weaving]() 
+
 [General Tank guides]() 
+
 [How Macros work]() 
 
 
 ## Deeper knowledge
 
-[Math Wizard Document(s)]() <br />
-[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) <br />
+[Math Wizard Document(s)]()
+
+[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520)
+
 
 
 
 
 ## The Guide
 
-[Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR) <br />
+[Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR)
+
 
 
 
@@ -49,24 +55,32 @@ You can leave Nascent Flash out, or use it later to cover fight damage, but it i
 [Abbreviations]() <br />
 [Stats and stat tiers](http://theoryjerks.akhmorning.com/)
 
-**What do I meld?** <br />
-Crit > Comfy SkS > Det > Ten <br />
+**What do I meld?**
+
+Crit > Comfy SkS > Det > Ten
+
 
 **Skill Speed (SkS) and Comfy SkS**
 
-37 GCDs each 90s <br />
+37 GCDs each 90s
+
 - 1015 for 2.43 GCD
 - 1117 for 2.42 GCD
 
-38 GCDs each 90s <br />
+38 GCDs each 90s
+
 - 1523 for 2.38 GCD
 - 1624 for 2.37 GCD
 - 1726 for 2.36 GCD
 
-**"Comfy"?** <br />
-Some fights require extra skill speed to hit that last skill before a mechanic. <br />
-One example would be E3s where you can hit Path (80 gauge) right before the first downtime. <br />
-Or E11s to finish a combo before the first downtime. <br />
+**"Comfy"?**
+
+Some fights require extra skill speed to hit that last skill before a mechanic.
+
+One example would be E3s where you can hit Path (80 gauge) right before the first downtime.
+
+Or E11s to finish a combo before the first downtime.
+
 
 **Why these Skillspeeds?** <br />
 Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible.  <br />
