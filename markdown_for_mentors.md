@@ -38,7 +38,7 @@ Reference-style:
 
 Simple lists:
 ```
-37 GCDs each 90s
+37 GCDs each 90s:
 - 1015 for 2.43 GCD
 - 1117 for 2.42 GCD
 ```
