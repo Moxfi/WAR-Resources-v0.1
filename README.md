@@ -8,7 +8,7 @@ Date: 2021_08_13
 [Abbreviations]() \
 [GCD, oGCD and weaving]() \
 [General Tank guides]() \
-[How Macros work]() \
+[How Macros work]() 
 
 
 ## Deeper knowledge
