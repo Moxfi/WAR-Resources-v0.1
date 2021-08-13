@@ -7,8 +7,8 @@ Date: 2021_08_13
 
 ## The guide
 
-[Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR)
-[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520)
+[Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR) <br />
+[Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) <br />
 
 
 
@@ -40,11 +40,11 @@ Crit > Comfy SkS > Det > Ten
 
 **Skill Speed (SkS) and Comfy SkS**
 
-37 GCDs each 90s
--1015 for 2.43 GCD
--1117 for 2.42 GCD
+> 37 GCDs each 90s
+  * 1015 for 2.43 GCD
+  * 1117 for 2.42 GCD
 
-38 GCDs each 90s
+> 38 GCDs each 90s
 -1523 for 2.38 GCD
 -1624 for 2.37 GCD
 -1726 for 2.36 GCD
