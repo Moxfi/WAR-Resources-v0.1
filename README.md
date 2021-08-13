@@ -5,19 +5,15 @@ Date: 2021_08_13
 ## Pre-requisite knowledge
 
 
-[Abbreviations]() 
-
-[GCD, oGCD and weaving]() 
-
-[General Tank guides]() 
-
-[How Macros work]() 
+[Abbreviations]() \
+[GCD, oGCD and weaving]() \
+[General Tank guides]() \
+[How Macros work]() \
 
 
 ## Deeper knowledge
 
 [Math Wizard Document(s)]()
-
 [Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520)
 
 
@@ -25,7 +21,6 @@ Date: 2021_08_13
 
 
 ## The Guide
-
 [Warrior: The Angry Healer - How to Fell Cleave](http://bit.ly/XIV50WAR)
 
 
@@ -39,7 +34,6 @@ Date: 2021_08_13
 ![Warrior Opener as of 5.0+](https://i.imgur.com/WB2SEtL.png "Warrior Opener")
 
 If you don't Tomahawk (ie. facepull), move Infuriate forward a GCD.
-
 It's preferable to pull with Heavy Swing + Provoke, but in some fights with far aggro range, it is better to Tomahawk in to gain a GCD.
 
 You can leave Nascent Flash out, or use it later to cover fight damage, but it is there for two reasons:
