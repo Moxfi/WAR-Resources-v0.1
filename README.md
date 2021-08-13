@@ -4,7 +4,7 @@ Date: 2021_08_13
 
 ## Pre-requisite knowledge
 
-Abbreviations <br />
+[Abbreviations](https://phookas.com/dictionary) <br />
 GCD, oGCD and weaving <br />
 General Tank guides <br />
 How Macros work <br />
