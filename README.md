@@ -41,8 +41,8 @@ You can leave Nascent Flash out, or use it later to cover fight damage, but it i
 
 [Stats and stat tiers](http://theoryjerks.akhmorning.com/)
 
-**What do I meld?**
-Crit > Comfy SkS > Det > Ten
+**What do I meld?** <br />
+Crit > Comfy SkS > Det > Ten <br />
 
 **Skill Speed (SkS) and Comfy SkS**
 
