@@ -112,7 +112,7 @@ Be mindful of your gauge, as you would have 20g more than usual in this situatio
 
 
 **What about Onslaught?** \
-To be used for: \
+To be used for: 
 - Inside Inner Release 
 - Gap closer to avoid GCD downtime 
 - Gauge/Rotation manipulation 
