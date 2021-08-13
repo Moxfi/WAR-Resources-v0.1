@@ -3,6 +3,9 @@ It's almost like Discord but not quite.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+File name _has_ to have **.md** at the end, such as this document: \
+markdown_for_mentors.md
+
 Discord-esque?
 ```
 **Bold**
