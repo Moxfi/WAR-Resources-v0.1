@@ -7,13 +7,14 @@ Date: 2021_08_13
 
 [Abbreviations]() \
 [GCD, oGCD and weaving]() \
-[General Tank guides]() \
-[How Macros work]() 
+[General Tank guides](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/tank_guides.md) \
+[How Macros work](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/macros.md) 
 
 
 ## Deeper knowledge
 [Math Wizard Document(s)]() \
 [Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520)
+[General Tools](https://github.com/Moxfi/WAR-Resources-v0.1/blob/main/tank_tools.md)
 
 
 
