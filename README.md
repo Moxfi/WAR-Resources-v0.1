@@ -50,26 +50,26 @@ Crit > Comfy SkS > Det > Ten
 -1726 for 2.36 GCD
 
 **"Comfy"?**
-Some fights require extra skill speed to hit that last skill before a mechanic. 
-One example would be E3s where you can hit Path (80 gauge) right before the first downtime.
-Or E11s to finish a combo before the first downtime.
+Some fights require extra skill speed to hit that last skill before a mechanic.  <br />
+One example would be E3s where you can hit Path (80 gauge) right before the first downtime. <br />
+Or E11s to finish a combo before the first downtime. <br />
 
 **Why these Skillspeeds?**
-Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible. 
-90 / 2.38 = 37.97
-That makes 38 GCDs between each Inner Release cast. This way, Inner Release comes up right after we finish our 38th GCD and we can re-enter the Fell Cleave spam phase.
-Going above or below from 2.38 GCD changes the timings so that we either wait for Inner Release to be back up or we delay it because we're still in the middle of our GCD.
+Warriors want to divide the Inner Release's cooldown (90s) as evenly as possible.  <br />
+90 / 2.38 = 37.97 <br />
+That makes 38 GCDs between each Inner Release cast. This way, Inner Release comes up right after we finish our 38th GCD and we can re-enter the Fell Cleave spam phase. <br />
+Going above or below from 2.38 GCD changes the timings so that we either wait for Inner Release to be back up or we delay it because we're still in the middle of our GCD. <br />
 
 **How do I use my Beast Gauge?**
-Your aim is to ALWAYS have at least 20g for Upheaval, or +70g for Fell Cleave + Upheaval. 
-That gauge isn't escaping you unless you can't use it due to FIGHT ENDING.
-Try to hit those Fell Cleaves inside party buffs and before the fight ends.
+Your aim is to ALWAYS have at least 20g for Upheaval, or +70g for Fell Cleave + Upheaval.  <br />
+That gauge isn't escaping you unless you can't use it due to FIGHT ENDING. <br />
+Try to hit those Fell Cleaves inside party buffs and before the fight ends. <br />
 
 **What about Onslaught?**
-To be used for:
-- Inside Inner Release
-- Gap closer to avoid GCD downtime
-- Gauge/Rotation manipulation
+To be used for: <br />
+- Inside Inner Release <br />
+- Gap closer to avoid GCD downtime <br />
+- Gauge/Rotation manipulation <br />
 
 
 
@@ -96,19 +96,19 @@ To be used for:
 
 **Self-casting Holmgang to avoid missing its effects**
 > /merror off
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
-> /ac "Holmgang" <me>
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
+> /ac "Holmgang" \<me> <br />
 > /micon "Holmgang"
 
 
