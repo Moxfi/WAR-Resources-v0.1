@@ -6,7 +6,7 @@ Mitigation: How does it work?
 
 Using two 20% cooldowns:
 
-Incoming Damage x (1 - (%)) x (1 - (%)) = \
+Incoming Damage x (1 - (20%)) x (1 - (20%)) = \
 1 x (1 - (0.2)) x ( 1 - (0.2)) = \
 1 x (0.8) x (0.8) = \
 1 x 0.64 = \
