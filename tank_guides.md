@@ -1,4 +1,4 @@
-## Related guides
+## Tanking related guides
 
 [So you want to be a tank?](https://goo.gl/nYzAnq) \
 [Becoming a BETTER Tank!](https://docs.google.com/document/d/1lAXu1wEM_NzVEcP5GJCGkOe_p6NISdjs2iPYzJz7F0A/edit?usp=sharing) \
