@@ -4,11 +4,12 @@ Date: 2021_08_13
 
 ## Pre-requisite knowledge
 
-[Abbreviations]() <br />
-[GCD, oGCD and weaving]() <br />
-[General Tank guides]() <br />
-[How Macros work]() <br />
-
+```
+[Abbreviations]()
+[GCD, oGCD and weaving]()
+[General Tank guides]()
+[How Macros work]()
+```
 
 ## Deeper knowledge
 
