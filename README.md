@@ -13,7 +13,7 @@ Date: 2021_08_13
 
 ## Deeper knowledge
 
-[Math Wizard Document(s)]()
+[Math Wizard Document(s)]() \
 [Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520)
 
 
@@ -36,7 +36,7 @@ Date: 2021_08_13
 If you don't Tomahawk (ie. facepull), move Infuriate forward a GCD. \
 It's preferable to pull with Heavy Swing + Provoke, but in some fights with far aggro range, it is better to Tomahawk in to gain a GCD.
 
-You can leave Nascent Flash out, or use it later to cover fight damage, but it is there for two reasons:
+You can leave Nascent Flash out, or use it later to cover fight damage, but it is there for two reasons: \
 1) It teaches people to use Inner Release in the 2nd oGCD slot, instead of pushing it asap
 2) It lines up with Upheaval, teaching people to use it like so
 
