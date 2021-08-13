@@ -88,10 +88,10 @@ To be used for:
 > /ac "Nascent Flash" <2> <br />
 > /ac "Nascent Flash" <2> <br />
 > /ac "Nascent Flash" <2> <br />
-> /ac "Nascent Flash" <me> <br />
-> /ac "Nascent Flash" <me> <br />
-> /ac "Nascent Flash" <me> <br />
-> /ac "Nascent Flash" <me> <br />
+> /ac "Nascent Flash" \<me> <br />
+> /ac "Nascent Flash" \<me> <br />
+> /ac "Nascent Flash" \<me> <br />
+> /ac "Nascent Flash" \<me> <br />
 > /micon "Nascent Flash" <br />
 
 **Self-casting Holmgang to avoid missing its effects**
