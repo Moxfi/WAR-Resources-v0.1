@@ -4,15 +4,15 @@ Date: 2021_08_13
 
 ## Pre-requisite knowledge
 
-[Abbreviations](https://phookas.com/dictionary) <br />
-GCD, oGCD and weaving <br />
-General Tank guides <br />
-How Macros work <br />
+[Abbreviations]() <br />
+[GCD, oGCD and weaving]() <br />
+[General Tank guides]() <br />
+[How Macros work]() <br />
 
 
 ## Deeper knowledge
 
-Math Wizard Document(s) <br />
+[Math Wizard Document(s)]() <br />
 [Tank DPS Calculator and itemization](https://bit.ly/TankDPSCalc520) <br />
 
 
