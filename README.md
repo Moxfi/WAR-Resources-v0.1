@@ -166,9 +166,7 @@ To be used for:
 [Gathered in a single doc for now](http://bit.ly/WARultimateBIS)
 
 **Current Raid tier** \
-Simulated on Xaela, in a Party, on a Dummy using [Tank DPS Calculator](https://bit.ly/TankDPSCalc520) \
-> Relic Sets \
-> Non-Relic Sets
+Simulated on Xaela, in a Party, on a Dummy using [Tank DPS Calculator](https://bit.ly/TankDPSCalc520) 
 
 **Relic Sets** \
 [2.37 GCD - 13397.2 dps - Chicken Fettuccine](https://etro.gg/gearset/f344710e-37b1-4c42-a422-76188ab680cf) \
