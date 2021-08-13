@@ -3,6 +3,18 @@ It's almost like Discord but not quite.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Discord-esque?
+```
+**Bold**
+
+_Italics_, *italics*
+
+__Underline__
+
+**Bold and __underline__**
+
+```
+
 Links and different lines:
 ```
 [Abbreviations]() \
@@ -20,4 +32,11 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+```
+
+Simple lists:
+```
+37 GCDs each 90s
+- 1015 for 2.43 GCD
+- 1117 for 2.42 GCD
 ```
